@@ -12,4 +12,4 @@ Some things about me:
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/leonardo-leite-556843159)&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Repositories](https://github.com/)
