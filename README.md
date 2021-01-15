@@ -11,4 +11,4 @@ Some things about me:
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
 
 
-[![Linkedin Badge](www.linkedin.com/in/leonardo-leite-556843159)
+[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](www.linkedin.com/in/leonardo-leite-556843159) 
