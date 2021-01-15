@@ -11,4 +11,5 @@ Some things about me:
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/leonardo-leite-556843159)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/leonardo-leite-556843159)&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
