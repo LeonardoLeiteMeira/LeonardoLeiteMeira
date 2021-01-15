@@ -10,5 +10,3 @@ Some things about me:
 - 🤔 I’m looking for help with well-assembled and scalable solutions
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/leonardo-leite-556843159)](www.linkedin.com/in/leonardo-leite-556843159) 
