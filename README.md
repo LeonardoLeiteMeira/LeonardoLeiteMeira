@@ -9,3 +9,6 @@ Some things about me:
 - 👯 I’m looking to collaborate on real problems
 - 🤔 I’m looking for help with well-assembled and scalable solutions
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
+
+
+[![Linkedin Badge](www.linkedin.com/in/leonardo-leite-556843159)
