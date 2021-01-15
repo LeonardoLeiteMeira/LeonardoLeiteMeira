@@ -9,7 +9,7 @@ Some things about me:
 - 👯 I’m looking to collaborate on real problems
 - 🤔 I’m looking for help with well-assembled and scalable solutions
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
-
+- 📚 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-leite-556843159)](https://www.linkedin.com/in/leonardo-leite-556843159)
 
