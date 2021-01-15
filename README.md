@@ -10,3 +10,5 @@ Some things about me:
 - 🤔 I’m looking for help with well-assembled and scalable solutions
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
