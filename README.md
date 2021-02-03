@@ -6,7 +6,7 @@ I like to build scalable solutions and cooperate with the development of the tea
 Some things about me:
 
 - 🔭 I’m currently working on [DTI Digital](https://www.dtidigital.com.br)
-- ⛏ I am very proud to have helped to structure [Commit Jr](https://commitjr.com) (Junior Computer Engineering Company of CEFET-MG), where, now, I work training new members and guiding the construction of solutions for customers.
+- ⛏ I am very proud to have helped to structure [Commit Jr](https://commitjr.com) (Junior Computer Engineering Company of CEFET-MG), where now, I work training new members and guiding the construction of solutions for customers.
 - 🌱 I’m currently learning Project organization and architecture
 - 👯 I’m looking to collaborate on real problems
 - 🤔 I’m looking for help with well-assembled and scalable solutions
