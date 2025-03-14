@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm a developer who likes to work as a team to build solutions that solve real problems. Now I'm focused on gaining experiences, understanding the usage situation for each type of solution and improving my skills as a developer.
-I like to build scalable solutions and cooperate with the development of the team as a whole. I like to use the best technologies to build good and optimized solutions !
+I am a Full-Stack Software Engineer with over 5 years of solid experience in React, Node.js, TypeScript, and Python. I enjoy solving problems with technology and work with CSS/SASS, Git, RESTful APIs, and both SQL and NoSQL databases. In startups, I built MVPs from scratch, turning early ideas into platforms that reached global scale. I care about code quality, system security, and performance, and I have strong experience with AWS, which I think is a great tool. I am also an AI enthusiast who works on small projects with LangChain and uses ChatGPT daily to learn and solve challenges the right way. I believe my skills and experience match the job requirements, and I am excited to join the team.
 
 Some things about me:
 
