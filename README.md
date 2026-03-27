@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am a Full-Stack Software Engineer with over 5 years of solid experience in React, Node.js, TypeScript, and Python. I enjoy solving problems with technology and work with CSS/SASS, Git, RESTful APIs, and both SQL and NoSQL databases. In startups, I built MVPs from scratch, turning early ideas into platforms that reached global scale. I care about code quality, system security, and performance, and I have strong experience with AWS, which I think is a great tool. I am also an AI enthusiast who works on small projects with LangChain and uses ChatGPT daily to learn and solve challenges the right way. I believe my skills and experience match the job requirements, and I am excited to join the team.
+Full-Stack Developer with an entrepreneurial mindset, combining technology and product vision to deliver solutions aligned with business goals.
+Strong focus on backend development with Python and PHP, experienced in both SQL and NoSQL databases, and proficient in containerization and orchestration using Docker and Kubernetes. On the front-end and mobile side, I work with Angular and Flutter, allowing me to understand and contribute to the full software lifecycle — from API to client interface.
+Experienced with agile methodologies such as Scrum and Kanban, I take part in every stage of development: from conception and architecture to implementation, delivery, and result analysis.
+In parallel, I’m developing Maria, a financial management project (youtube.com/@leonardo-leite-meira), where I document the technical challenges and solutions as part of an entrepreneurial initiative (pt-br).
 
 Some things about me:
 
