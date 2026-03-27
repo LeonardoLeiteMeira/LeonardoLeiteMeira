@@ -4,11 +4,11 @@ I am a Full-Stack Software Engineer with over 5 years of solid experience in Rea
 
 Some things about me:
 
-- Working in [NetLex](https://netlex.io/)
+- Working in [Vidalung](https://vidalung.ai/) through [IEBT Innovation](https://www.iebtinnovation.com/)
 - 🔭 I have finished a master's degree in information systems at [IPB](https://portal3.ipb.pt/index.php/pt/ipb), Bragança, in Portugal 
 - 📚 Computer Engineering from [CEFET-MG](https://www.cefetmg.br)
 - 🤔 I’m looking for help with well-assembled and scalable solutions
-- 🌱 I’m currently learning AI Agents, Products, and SOftware Architecture
+- 🌱 I’m currently learning AI Agents, Products, and Software Architecture
 - 👥 I’m looking to collaborate on real problems
 - ⛏ I am very proud to have helped to structure [Commit Jr](https://commitjr.com) (Junior Computer Engineering Company of CEFET-MG), where now, I work training new members and guiding the construction of solutions for customers.
 - 📫 How to reach me: leonardo.leitemeira10@gmail.com
